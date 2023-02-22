@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/digital_business__card/static/css/main.59569fd9.css",
-    "main.js": "/digital_business__card/static/js/main.58a0a1fe.js",
-    "static/js/787.86b5e812.chunk.js": "/digital_business__card/static/js/787.86b5e812.chunk.js",
-    "static/media/photo.png": "/digital_business__card/static/media/photo.de6209ec5b3220e014f3.png",
-    "static/media/Instagram.svg": "/digital_business__card/static/media/Instagram.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
-    "static/media/GitHub.svg": "/digital_business__card/static/media/GitHub.23d6dfa78140e8017f08351385915806.svg",
-    "static/media/Twitter.svg": "/digital_business__card/static/media/Twitter.3f40423293e1813898c7e26f729a0705.svg",
-    "static/media/icon_2.svg": "/digital_business__card/static/media/icon_2.629bf92ee99b6aa01a5c2869b2d41378.svg",
-    "index.html": "/digital_business__card/index.html",
-    "static/media/Facebook.svg": "/digital_business__card/static/media/Facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
-    "static/media/icon_1.svg": "/digital_business__card/static/media/icon_1.9a2254b41727510aba0d31da7ad223f9.svg",
-    "main.59569fd9.css.map": "/digital_business__card/static/css/main.59569fd9.css.map",
-    "main.58a0a1fe.js.map": "/digital_business__card/static/js/main.58a0a1fe.js.map",
-    "787.86b5e812.chunk.js.map": "/digital_business__card/static/js/787.86b5e812.chunk.js.map"
+    "main.css": "/digital_business_card/static/css/main.59569fd9.css",
+    "main.js": "/digital_business_card/static/js/main.0f46fe4c.js",
+    "static/js/787.86b5e812.chunk.js": "/digital_business_card/static/js/787.86b5e812.chunk.js",
+    "static/media/photo.png": "/digital_business_card/static/media/photo.de6209ec5b3220e014f3.png",
+    "static/media/Instagram.svg": "/digital_business_card/static/media/Instagram.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/GitHub.svg": "/digital_business_card/static/media/GitHub.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/Twitter.svg": "/digital_business_card/static/media/Twitter.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/icon_2.svg": "/digital_business_card/static/media/icon_2.629bf92ee99b6aa01a5c2869b2d41378.svg",
+    "index.html": "/digital_business_card/index.html",
+    "static/media/Facebook.svg": "/digital_business_card/static/media/Facebook.00c353d38f22d18d3ff0962f9ce66f43.svg",
+    "static/media/icon_1.svg": "/digital_business_card/static/media/icon_1.9a2254b41727510aba0d31da7ad223f9.svg",
+    "main.59569fd9.css.map": "/digital_business_card/static/css/main.59569fd9.css.map",
+    "main.0f46fe4c.js.map": "/digital_business_card/static/js/main.0f46fe4c.js.map",
+    "787.86b5e812.chunk.js.map": "/digital_business_card/static/js/787.86b5e812.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59569fd9.css",
-    "static/js/main.58a0a1fe.js"
+    "static/js/main.0f46fe4c.js"
   ]
 }
